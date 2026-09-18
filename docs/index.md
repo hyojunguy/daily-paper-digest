@@ -4,6 +4,7 @@ A daily 5-minute digest of trending AI/ML papers.
 
 ## Archive
 
+- [2026-09-18](2026-09-18.md)
 - [2026-09-17](2026-09-17.md)
 - [2026-09-16](2026-09-16.md)
 - [2026-09-15](2026-09-15.md)
@@ -71,4 +72,4 @@ A daily 5-minute digest of trending AI/ML papers.
 - [2026-07-11](2026-07-11.md)
 - [2026-07-10](2026-07-10.md)
 
-Latest: **[2026-09-17](2026-09-17.md)**
+Latest: **[2026-09-18](2026-09-18.md)**
